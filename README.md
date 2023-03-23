@@ -14,7 +14,9 @@ Eu sou desenvolvedor fullstack, com experiências em c#, ReactJs, ReactNative, S
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Caio-Sdk8&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
+### Contato ⤵️
 <p align="right">
+
   <a href="mailto:caioadriana5@gmail.com.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
@@ -23,6 +25,7 @@ Eu sou desenvolvedor fullstack, com experiências em c#, ReactJs, ReactNative, S
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/qr/6J5YV5FQMS7HB1"/></a>
+</p> 
 
-</p>  
+
 <hr>
