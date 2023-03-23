@@ -16,7 +16,7 @@ Eu sou desenvolvedor **fullstack**, com experiências em c#, ReactJs, ReactNativ
 
 
 <p align="right">
-  <a href="https://criarmeulink.com.br/u/1679575831" alt="Gmail">
+  <a href="mailto:caioadriana5@gmail.com.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/caio-soares-a866b4215/" alt="Linkedin">
