@@ -16,15 +16,13 @@ Eu sou desenvolvedor **fullstack**, com experiências em c#, ReactJs, ReactNativ
 
 
 <p align="right">
-
-  **Contato**
   <a href="mailto:caioadriana5@gmail.com.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/caio-soares-a866b4215/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-soares-a866b4215/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/qr/6J5YV5FQMS7HB1" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/qr/6J5YV5FQMS7HB1"/></a>
 </p> 
 
