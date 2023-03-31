@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Csdk8">
 
-## Olá, sou um desenvolvedor júnior buscando conhecimento e experiência, comecei meus estudos e carreira na área de programação no curso técnico de desenvolvimento de sistemas do SENAI INFORMÁTICA, onde desenvolvi minhas soft skills, conheci metodologias ágeis e tive meu primeiro contato com o mundo da programação, aprendendo algumas linguagens e estruturas de projeto, além de uma vivência mais aprofundada de um dia a dia de um programador durante o meu tcc.
-Atualmente estou cursando Eng. Mecânica no IFSP-Itaquaquecetuba, mas não deixei o que realmente amo e me interesso que é a área de desenvolvimento, e seguirei meus estudos de forma autodidata na área, estou aberto a oportunidades de trabalho ou até mesmo dicas e sugestões.
+## Olá, sou um desenvolvedor júnior buscando conhecimento e experiência, comecei meus estudos e carreira na área de programação no curso técnico de desenvolvimento de sistemas do SENAI INFORMÁTICA, onde desenvolvi minhas soft skills, conheci metodologias ágeis e tive meu primeiro contato com o mundo da programação, aprendendo algumas linguagens e estruturas de projeto, além de uma vivência mais aprofundada de um dia a dia de um programador durante o meu tcc, atualmente estou cursando Eng. Mecânica no IFSP-Itaquaquecetuba, mas não deixei o que realmente amo e me interesso que é a área de desenvolvimento, e seguirei meus estudos de forma autodidata na área, estou aberto a oportunidades de trabalho ou até mesmo dicas e sugestões.
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Caio Soares&color=f8efd4&style=for-the-badge&logo=GitHub">
 
