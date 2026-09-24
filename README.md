@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://fatecmogidascruzes.cps.sp.gov.br/" target="_blank">
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fatec%20logo.svg" alt="Fatec" width="64" height="64" />
+        <img src="https://www.fatecmogidascruzes.com.br/images/logo.svg" alt="Fatec" width="64" height="64" />
       </a>
       <h3>Fatec</h3>
       <p><strong>Undergraduate Technology Degree in Systems Analysis and Development (CST)</strong></p>
